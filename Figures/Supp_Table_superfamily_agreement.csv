@@ -1,0 +1,14 @@
+Superfamily,Proteins,Structures,Mean Pearson r,Mean slope
+Homeodomain-like superfamily,6,9,0.63,0.33
+"TubC, N-terminal docking domain superfamily",3,3,0.59,0.3
+Chaperone J-domain superfamily,4,5,0.55,0.3
+Winged helix DNA-binding domain superfamily,4,4,0.55,0.22
+SH2 domain superfamily,9,12,0.52,0.22
+SH3-like domain superfamily,15,26,0.51,0.24
+"Zinc finger, RING/FYVE/PHD-type",3,4,0.5,0.21
+EF-hand domain pair,4,4,0.47,0.18
+Immunoglobulin/albumin-binding domain superfamily,6,13,0.46,0.18
+WW domain superfamily,8,16,0.46,0.22
+Chromo-like domain superfamily,5,5,0.46,0.26
+"Nucleic acid-binding, OB-fold",10,10,0.44,0.13
+Antifreeze-like/N-acetylneuraminic acid synthase C-terminal domain superfamily,4,4,0.44,0.25

@@ -1,0 +1,293 @@
+uniprot_id,interpro_superfamily_id,interpro_superfamily_name,superfamily_uniprot_residues,n_pdb_ids_total_for_uniprot,n_pdb_ids_overlapping,pdb_ids_overlapping,notes
+A0A066R7V5,IPR036259,MFS transporter superfamily,,1,1,2ru9,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+A0A0H2URM0,,,,1,,2m7o,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+A0A0H2YV13,IPR036028,SH3-like domain superfamily,,1,1,2kyb,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+A0A0H3AYC3,IPR012340,"Nucleic acid-binding, OB-fold",,1,1,2lss,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+A0A0J9X1W7,IPR009063,Immunoglobulin/albumin-binding domain superfamily,,1,1,2mh8,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+A0A173DW12,IPR036736,ACP-like superfamily,1466-1546,1,0,,
+A0A173DW12,IPR045851,AMP-binding enzyme domain superfamily,"947-1025, 1370-1465",1,0,,
+A0A173DW12,IPR023213,Chloramphenicol acetyltransferase-like domain superfamily,80-448,1,0,,
+A0A173DW12,IPR029063,S-adenosyl-L-methionine-dependent methyltransferase superfamily,1026-1225,1,0,,
+A0A173DW12,IPR044894,"TubC, N-terminal docking domain superfamily",4-56,1,1,6ewt,
+A0A173DW33,IPR036736,ACP-like superfamily,1070-1151,1,0,,
+A0A173DW33,IPR045851,AMP-binding enzyme domain superfamily,944-1069,1,0,,
+A0A173DW33,IPR023213,Chloramphenicol acetyltransferase-like domain superfamily,80-448,1,0,,
+A0A173DW33,IPR044894,"TubC, N-terminal docking domain superfamily",4-56,1,1,6ews,
+A0A173DW42,IPR023213,Chloramphenicol acetyltransferase-like domain superfamily,85-464,2,0,,
+A0A173DW42,IPR044894,"TubC, N-terminal docking domain superfamily",4-56,2,2,6ewu; 6ewv,
+A0A480YEE4,IPR036028,SH3-like domain superfamily,,1,1,6scw,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+A3DBH1,IPR008965,"CBM2/CBM3, carbohydrate-binding domain superfamily",338-485,4,1,4b9c,
+A3DBH1,IPR036966,Carbohydrate-binding module 3 superfamily,337-485,4,1,4b9c,
+A6T888,IPR038146,Rac prophage excisionase XisR-like,,1,1,2kvv,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+A9J6U1,,,,1,,6yse,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+C4M3X7,IPR016197,Chromo-like domain superfamily,,1,1,2m2l,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+D3WAF4,,,,1,,6obk,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+G1K3N3,,,,1,,2lc2,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+G1K3S4,,,,2,,3zgk; 3zr8,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+H6WEV7,IPR043502,DNA/RNA polymerase superfamily,1188-1666,1,0,,(note: IPR043504 present in raw ID list but not found in reference entry.list; excluded from analysis)
+H6WEV7,IPR027417,P-loop containing nucleoside triphosphate hydrolase,435-629,1,0,,(note: IPR043504 present in raw ID list but not found in reference entry.list; excluded from analysis)
+H6WEV7,IPR009003,"Peptidase S1, PA clan",1005-1164,1,0,,(note: IPR043504 present in raw ID list but not found in reference entry.list; excluded from analysis)
+H6WEV7,IPR043128,Reverse transcriptase/Diguanylate cyclase domain,"1396-1446, 1452-1567",1,0,,(note: IPR043504 present in raw ID list but not found in reference entry.list; excluded from analysis)
+I6V394,,,,2,,6e4j; 6ns8,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+O00257,IPR016197,Chromo-like domain superfamily,,3,3,2k28; 3i8z; 5epl,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+O14776,IPR036517,FF domain superfamily,"653-780, 781-858, 888-1014, 1015-1081",29,14,2dod; 2doe; 2dof; 2e71; 2kiq; 2kis; 3hfh; 4fqg; 7abf; 7abg; 8q7n; 8qo9; 9r3d; 9r8v,
+O14776,IPR036020,WW domain superfamily,"136-168, 434-466, 523-561",29,20,2dk7; 2mw9; 2mwa; 2mwb; 2mwd; 2mwe; 2mwf; 2n4r; 2n4s; 2n4t; 2n4u; 2n4v; 2n4w; 2nnt; 7abf; 7abg; 8q7n; 8qo9; 9r3d; 9r8v,
+O15259,IPR036028,SH3-like domain superfamily,,2,2,1s1n; 6o1q,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+O22265,IPR036770,Ankyrin repeat-containing domain superfamily,122-265,10,7,1x32; 1x3q; 2hug; 3deo; 3dep; 3ui2; 5e4w,
+O22265,IPR016197,Chromo-like domain superfamily,"81-132, 268-316, 322-370",10,10,1x32; 1x3p; 1x3q; 2hug; 2n88; 3deo; 3dep; 3ui2; 5e4w; 5e4x,
+O25839,IPR038444,DUF465 superfamily,,1,1,1zhc,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+O26789,IPR012340,"Nucleic acid-binding, OB-fold",,1,1,2k5h,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+O31818,,,,3,,2hep; 2jvd; 3bhp,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+O45502,IPR008971,HSP40/DnaJ peptide-binding,"109-251, 253-338",1,0,,
+O45502,IPR036410,"Heat shock protein DnaJ, cysteine-rich domain superfamily",133-204,1,0,,
+O45502,IPR036869,Chaperone J-domain superfamily,2-106,1,1,2och,
+O54790,IPR046347,Basic-leucine zipper domain superfamily,52-109,2,2,1k1v; 3a5t,
+O54790,IPR008917,"Transcription factor, Skn-1-like, DNA-binding domain superfamily",24-64,2,2,1k1v; 3a5t,
+O58204,IPR012340,"Nucleic acid-binding, OB-fold",,1,1,2exd,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+O59021,IPR011053,Single hybrid motif,,7,7,2d5d; 2ejf; 2ejg; 2evb; 5gu8; 5gu9; 5gua,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+O65570,IPR029006,ADF-H/Gelsolin-like domain superfamily,"7-132, 133-246, 247-357, 387-521, 522-612, 613-736",1,0,,
+O65570,IPR036886,Villin headpiece domain superfamily,904-974,1,1,5vnt,
+O67086,IPR035566,"Ribosomal protein bL20, C-terminal",,2,2,1gyz; 2ghj,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+O75400,IPR036517,FF domain superfamily,"380-450, 452-597, 598-679, 736-812",12,5,1uzc; 2cqn; 2kzg; 2l9v; 2lks,
+O75400,IPR036020,WW domain superfamily,145-214,12,7,1ywi; 1ywj; 1zr7; 2dyf; 2l5f; 8pxw; 8pxx,
+O88544,IPR036388,Winged helix-like DNA-binding domain superfamily,289-369,1,1,1ufm,
+O88544,IPR036390,Winged helix DNA-binding domain superfamily,294-365,1,1,1ufm,
+O94993,IPR036910,High mobility group box domain superfamily,,1,1,7jjk,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+O95071,IPR035983,"HECT, E3 ligase catalytic domain",2247-2792,11,10,1i2t; 3pt3; 8bja; 8c06; 8c07; 8d4x; 8e0q; 8ewi; 8p82; 8p83,
+O95071,IPR036053,PABC (PABP) domain,2360-2458,11,9,1i2t; 8bja; 8c06; 8c07; 8d4x; 8e0q; 8ewi; 8p82; 8p83,
+O95071,IPR009091,Regulator of chromosome condensation 1/beta-lactamase-inhibitor protein II,329-535,11,8,8bja; 8c06; 8c07; 8d4x; 8e0q; 8ewi; 8p82; 8p83,
+O95155,IPR013083,"Zinc finger, RING/FYVE/PHD-type",,4,4,2kre; 3l1x; 3l1z; 5o75,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+O95931,IPR016197,Chromo-like domain superfamily,,9,9,2k1b; 2l12; 2l1b; 3gs2; 4mn3; 5epj; 6v2r; 8sii; 9v9p,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P00523,IPR011009,Protein kinase-like domain superfamily,256-526,142,72,2hwo; 2hwp; 2oiq; 2ptk; 2qi8; 2qlq; 2qq7; 3d7t; 3d7u; 3dqw; 3dqx; 3el7; 3el8; 3en4; 3en5; 3en6; 3en7; 3f3t; 3f3u; 3f3v; 3f3w; 3f6x; 3g5d; 3g6g; 3g6h; 3geq; 3lok; 3oez; 3of0; 3qlf; 3qlg; 3svv; 3tz7; 3tz8; 3tz9; 3u4w; 3u51; 3uqf; 3uqg; 4agw; 4dgg; 4fic; 4lgg; 4lgh; 4mcv; 4o2p; 4u5j; 4ybj; 4ybk; 5bmm; 5d10; 5d11; 5d12; 5j5s; 5k9i; 5swh; 5sys; 5t0p; 5teh; 5xp5; 5xp7; 6hve; 6hvf; 6l8l; 6wiw; 7ah3; 7d57; 7d5o; 7wf5; 8k79; 9bt8; 9v4e,
+P00523,IPR036860,SH2 domain superfamily,113-287,142,142,1f1w; 1f2f; 1nlo; 1nlp; 1p13; 1prl; 1prm; 1rlp; 1rlq; 1srl; 1srm; 2hwo; 2hwp; 2oiq; 2ptk; 2qi8; 2qlq; 2qq7; 3d7t; 3d7u; 3dqw; 3dqx; 3el7; 3el8; 3en4; 3en5; 3en6; 3en7; 3f3t; 3f3u; 3f3v; 3f3w; 3f6x; 3fj5; 3g5d; 3g6g; 3g6h; 3geq; 3lok; 3oez; 3of0; 3qlf; 3qlg; 3svv; 3tz7; 3tz8; 3tz9; 3u4w; 3u51; 3uqf; 3uqg; 4agw; 4dgg; 4fic; 4hvu; 4hvv; 4hvw; 4jz3; 4jz4; 4le9; 4lgg; 4lgh; 4mcv; 4o2p; 4oml; 4omm; 4omn; 4omo; 4omp; 4omq; 4qt7; 4rtu; 4rtv; 4rtw; 4rtx; 4rty; 4rtz; 4u5j; 4ybj; 4ybk; 5bmm; 5d10; 5d11; 5d12; 5ec7; 5eca; 5i11; 5j5s; 5k9i; 5oav; 5ob0; 5ob1; 5ob2; 5swh; 5sys; 5t0p; 5teh; 5xp5; 5xp7; 6hve; 6hvf; 6l8l; 6wiw; 6xvm; 6xvn; 6xvo; 6xx2; 6xx3; 6xx4; 6xx5; 7a30; 7a31; 7a32; 7a33; 7a34; 7a35; 7a36; 7a37; 7a38; 7a39; 7a3a; 7a3b; 7a3c; 7a3d; 7a3e; 7ah3; 7d57; 7d5o; 7ner; 7nes; 7net; 7pvw; 7pvx; 7pvy; 7pvz; 7pw0; 7wf5; 8k79; 9bt8; 9cx3; 9cx9; 9v4e,
+P00523,IPR036028,SH3-like domain superfamily,79-121,142,69,1nlo; 1nlp; 1prl; 1prm; 1rlp; 1rlq; 1srl; 1srm; 2ptk; 3fj5; 4hvu; 4hvv; 4hvw; 4jz3; 4jz4; 4le9; 4oml; 4omm; 4omn; 4omo; 4omp; 4omq; 4qt7; 4rtu; 4rtv; 4rtw; 4rtx; 4rty; 4rtz; 5ec7; 5eca; 5i11; 5oav; 5ob0; 5ob1; 5ob2; 6xvm; 6xvn; 6xvo; 6xx2; 6xx3; 6xx4; 6xx5; 7a30; 7a31; 7a32; 7a33; 7a34; 7a35; 7a36; 7a37; 7a38; 7a39; 7a3a; 7a3b; 7a3c; 7a3d; 7a3e; 7ner; 7nes; 7net; 7pvw; 7pvx; 7pvy; 7pvz; 7pw0; 9bt8; 9cx3; 9cx9,
+P02417,IPR009027,"Large ribosomal subunit protein bL9/RNase H1, N-terminal",1-56,10,10,1cqu; 1div; 2hba; 2hbb; 2hvf; 487d; 4v42; 4v4r; 4v4s; 4v4t,
+P02417,IPR036791,"Large ribosomal subunit protein bL9, C-terminal domain superfamily",57-149,10,6,1div; 487d; 4v42; 4v4r; 4v4s; 4v4t,
+P02417,IPR036935,"Large ribosomal subunit protein bL9, N-terminal domain superfamily",1-52,10,10,1cqu; 1div; 2hba; 2hbb; 2hvf; 487d; 4v42; 4v4r; 4v4s; 4v4t,
+P02640,IPR029006,ADF-H/Gelsolin-like domain superfamily,"2-126, 127-248, 249-363, 392-510, 514-607, 616-734",46,3,2llf; 2vik; 2vil,
+P02640,IPR036180,Gelsolin-like domain superfamily,"123-232, 251-435",46,2,2vik; 2vil,
+P02640,IPR036886,Villin headpiece domain superfamily,756-826,46,43,1qqv; 1vii; 1wy3; 1wy4; 1yrf; 1yri; 1yu5; 1yu7; 1yu8; 2f4k; 2jm0; 2ppz; 2rjv; 2rjw; 2rjx; 2rjy; 3mya; 3myc; 3mye; 3nkj; 3tjw; 3trv; 3trw; 3try; 4cz3; 4cz4; 5i1n; 5i1o; 5i1p; 5i1s; 9mf7; 9mf8; 9mf9; 9mfa; 9mfb; 9ylz; 9ym0; 9ym1; 9ym2; 9ym3; 9ym4; 9ym5; 9ym6,
+P02836,IPR009057,Homeodomain-like superfamily,,15,15,1du0; 1enh; 1hdd; 1p7i; 1p7j; 1ztr; 2hdd; 2hos; 2hot; 2jwt; 2p81; 3hdd; 6fvc; 6m3d; 9yzq,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P02976,IPR009063,Immunoglobulin/albumin-binding domain superfamily,"38-92, 99-153, 154-211, 212-269, 270-327",41,41,1dee; 1h0t; 4y5z; 5u3d; 5u4y; 5u5f; 5u5m; 5u6a; 6b9y; 6b9z; 6bae; 6bah; 6k3m; 6k64; 6k65; 6k68; 6k6a; 6k6b; 6sow; 8da3; 8da4; 8da5; 8da6; 8da7; 8da8; 8da9; 8daa; 8dab; 8dac; 8r2p; 9bde; 9bdt; 9coo; 9fzm; 9hxs; 9m5d; 9m6j; 9m6o; 9qbj; 9qu4; 9w3k,
+P02976,IPR036779,LysM domain superfamily,413-481,41,0,,
+P03040,IPR038202,Regulatory protein cro superfamily,1-66,12,12,1cop; 1d1l; 1d1m; 1orc; 2a63; 2ecs; 2orc; 2ovg; 3orc; 4cro; 5cro; 6cro,
+P03040,IPR010982,"Lambda repressor-like, DNA-binding domain superfamily",1-65,12,12,1cop; 1d1l; 1d1m; 1orc; 2a63; 2ecs; 2orc; 2ovg; 3orc; 4cro; 5cro; 6cro,
+P03422,IPR016075,"RNA polymerase, phosphoprotein P, C-terminal XD, paramyxovirinae",,6,6,1oks; 2k9d; 9dus; 9dut; 9oce; 9ocf,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P03704,IPR038715,RNA polymerase inhibitor superfamily,,4,4,2lmc; 2wnm; 4lk0; 4llg,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P05434,IPR011992,EF-hand domain pair,,4,4,1oqp; 2ami; 3qrx; 8glv,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P05766,IPR009068,"uS15/NS1, RNA-binding domain superfamily",,2,2,1a32; 1qd7,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P06239,IPR011009,Protein kinase-like domain superfamily,231-500,57,38,1qpc; 1qpd; 1qpe; 1qpj; 2of2; 2of4; 2ofu; 2ofv; 2og8; 2pl0; 2zm1; 2zm4; 2zyb; 3ac1; 3ac2; 3ac3; 3ac4; 3ac5; 3ac8; 3acj; 3ack; 3ad4; 3ad5; 3ad6; 3b2w; 3brh; 3bym; 3byo; 3bys; 3byu; 3kmm; 3kxz; 3lck; 3mpm; 4c3f; 5mtm; 5mtn; 6pdj,
+P06239,IPR036860,SH2 domain superfamily,120-265,57,52,1bhf; 1bhh; 1cwd; 1cwe; 1fbz; 1h92; 1ijr; 1kik; 1lcj; 1lck; 1lkk; 1lkl; 1qpc; 1qpd; 1qpe; 1qpj; 1x27; 2of2; 2of4; 2ofu; 2ofv; 2og8; 2pl0; 2zm1; 2zm4; 2zyb; 3ac1; 3ac2; 3ac3; 3ac4; 3ac5; 3ac8; 3acj; 3ack; 3ad4; 3ad5; 3ad6; 3b2w; 3bym; 3byo; 3bys; 3byu; 3kmm; 3kxz; 3lck; 3mpm; 4c3f; 4d8k; 5mtm; 5mtn; 6pdj; 8x2p,
+P06239,IPR036028,SH3-like domain superfamily,51-172,57,18,1bhf; 1bhh; 1cwd; 1cwe; 1fbz; 1h92; 1ijr; 1kik; 1lcj; 1lck; 1lkk; 1lkl; 1x27; 2iim; 4d8k; 5mtm; 5mtn; 8x2p,
+P06241,IPR011009,Protein kinase-like domain superfamily,258-529,53,3,10dj; 2dq7; 2mrk,
+P06241,IPR036860,SH2 domain superfamily,140-291,53,53,10dj; 1a0n; 1aot; 1aou; 1avz; 1azg; 1efn; 1fyn; 1g83; 1m27; 1nyf; 1nyg; 1shf; 1zbj; 2dq7; 2mqi; 2mrj; 2mrk; 3h0f; 3h0h; 3h0i; 3ua6; 3ua7; 4d8d; 4eik; 4u17; 4u1p; 4znx; 5zau; 6edf; 6ipy; 6ipz; 7a2j; 7a2k; 7a2l; 7a2m; 7a2n; 7a2o; 7a2p; 7a2q; 7a2r; 7a2s; 7a2t; 7a2u; 7a2v; 7a2w; 7a2x; 7a2y; 7a2z; 7ud6; 8kdx; 9ghk; 9pgz,
+P06241,IPR036028,SH3-like domain superfamily,68-195,53,51,1a0n; 1aot; 1aou; 1avz; 1azg; 1efn; 1fyn; 1g83; 1m27; 1nyf; 1nyg; 1shf; 1zbj; 2mqi; 2mrj; 2mrk; 3h0f; 3h0h; 3h0i; 3ua6; 3ua7; 4d8d; 4eik; 4u17; 4u1p; 4znx; 5zau; 6edf; 6ipy; 6ipz; 7a2j; 7a2k; 7a2l; 7a2m; 7a2n; 7a2o; 7a2p; 7a2q; 7a2r; 7a2s; 7a2t; 7a2u; 7a2v; 7a2w; 7a2x; 7a2y; 7a2z; 7ud6; 8kdx; 9ghk; 9pgz,
+P06654,IPR009063,Immunoglobulin/albumin-binding domain superfamily,,51,51,1em7; 1gb1; 1igc; 1igd; 1le3; 1mpe; 1mvk; 1pga; 1pgb; 1pgx; 1pn5; 1q10; 2gb1; 2igd; 2igh; 2j52; 2j53; 2k0p; 2kbt; 2klk; 2lgi; 2mbb; 2n7j; 2nmq; 2plp; 2rmm; 2rpv; 3gb1; 3mp9; 4kgr; 4kgs; 4kgt; 6cne; 6l91; 6l9b; 6l9d; 6lji; 6v9i; 7qtr; 7qts; 7rxc; 7rxd; 8jxr; 8jxs; 8t0g; 9bdt; 9coo; 9g4t; 9ja5; 9ja6; 9w3k,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P07751,IPR011992,EF-hand domain pair,2314-2450,62,0,,
+P07751,IPR036028,SH3-like domain superfamily,967-1028,62,57,1aey; 1bk2; 1e6g; 1e6h; 1e7o; 1g2b; 1h8k; 1hd3; 1m8m; 1neg; 1pwt; 1qkw; 1qkx; 1shg; 1tuc; 1tud; 1u06; 1uue; 2cdt; 2f2v; 2f2w; 2f2x; 2jm8; 2jm9; 2jma; 2jmc; 2kr3; 2kxd; 2lj3; 2nuz; 2oaw; 2rmo; 2rot; 3i9q; 3m0p; 3m0q; 3m0r; 3m0s; 3m0t; 3m0u; 3ngp; 4f16; 4f17; 5ihi; 5ihk; 5ihn; 7s4r; 8cf4; 8chg; 8chh; 9eyb; 9eyc; 9eye; 9eyf; 9ih6; 9ih7; 9iha,
+P07948,IPR011009,Protein kinase-like domain superfamily,234-500,6,2,3a4o; 5xy1,
+P07948,IPR036860,SH2 domain superfamily,120-267,6,6,1w1f; 1wa7; 3a4o; 5xy1; 6nmw; 8wff,
+P07948,IPR036028,SH3-like domain superfamily,64-149,6,4,1w1f; 1wa7; 6nmw; 8wff,
+P08631,IPR011009,Protein kinase-like domain superfamily,249-518,42,27,1ad5; 1qcf; 2c0i; 2c0o; 2c0t; 2hck; 2hk5; 3nhn; 3vry; 3vrz; 3vs0; 3vs1; 3vs2; 3vs3; 3vs4; 3vs5; 3vs6; 3vs7; 4lud; 4lue; 5h09; 5h0b; 5h0e; 5h0g; 5h0h; 5zj6; 9byj,
+P08631,IPR036860,SH2 domain superfamily,135-281,42,42,1ad5; 1bu1; 1qcf; 2c0i; 2c0o; 2c0t; 2hck; 2hk5; 2oi3; 2oj2; 3hck; 3nhn; 3rbb; 3rea; 3reb; 3vry; 3vrz; 3vs0; 3vs1; 3vs2; 3vs3; 3vs4; 3vs5; 3vs6; 3vs7; 4hck; 4lud; 4lue; 4orz; 4u5w; 5h09; 5h0b; 5h0e; 5h0g; 5h0h; 5hck; 5nuh; 5zj6; 8f2p; 9byj; 9y58; 9y9k,
+P08631,IPR036028,SH3-like domain superfamily,81-163,42,40,1ad5; 1bu1; 1qcf; 2c0i; 2c0o; 2c0t; 2hck; 2oi3; 2oj2; 3hck; 3nhn; 3rbb; 3rea; 3reb; 3vry; 3vrz; 3vs0; 3vs1; 3vs2; 3vs3; 3vs4; 3vs5; 3vs6; 3vs7; 4hck; 4lud; 4lue; 4orz; 4u5w; 5h09; 5h0b; 5h0e; 5h0g; 5h0h; 5hck; 5nuh; 8f2p; 9byj; 9y58; 9y9k,
+P0A355,IPR012340,"Nucleic acid-binding, OB-fold",,2,2,2lxj; 2lxk,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P0A6D0,IPR036251,"Arginine repressor, C-terminal domain superfamily",82-151,4,3,1xxa; 1xxb; 1xxc,
+P0A6D0,IPR036388,Winged helix-like DNA-binding domain superfamily,1-74,4,1,1aoy,
+P0A6D0,IPR036390,Winged helix DNA-binding domain superfamily,3-77,4,1,1aoy,
+P0A9X9,IPR012340,"Nucleic acid-binding, OB-fold",,5,5,1mjc; 2l15; 30ib; 3mef; 8rxe,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P0AAN5,IPR038462,YaiA-like superfamily,,1,1,2kvt,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P0AFF6,IPR010995,"DNA repair Rad51/transcription factor NusA, alpha-helical","355-414, 429-492",62,61,1u9l; 1wcl; 1wcn; 2jzb; 5lm7; 5lm9; 5ms0; 6flq; 6gov; 6ib8; 6tqn; 6tqo; 6x6t; 6x7f; 6x7k; 6x9q; 6xas; 6xav; 6xdq; 6z9p; 6z9q; 6z9r; 6z9s; 6z9t; 7adb; 7adc; 7add; 7ade; 7py3; 7py5; 7py6; 7py7; 7pyj; 7pyk; 7ubn; 8pil; 8uqm; 8ur0; 8uri; 8ury; 8vkv; 8vl1; 8voo; 8vop; 8voq; 8vor; 8vos; 8y5l; 8y5m; 8y5o; 8y5p; 8y5q; 8y5r; 8y5s; 8y5t; 8yde; 8ydf; 8ydg; 8ydh; 8ydi; 8ydj,
+P0AFF6,IPR015946,"K homology domain-like, alpha/beta","199-277, 278-343",62,56,5lm7; 5lm9; 5ms0; 6flq; 6gov; 6tqn; 6tqo; 6x6t; 6x7f; 6x7k; 6x9q; 6xas; 6xav; 6xdq; 6z9p; 6z9q; 6z9r; 6z9s; 6z9t; 7adb; 7adc; 7add; 7ade; 7py3; 7py5; 7py6; 7py7; 7pyj; 7pyk; 7ubn; 8pil; 8uqm; 8ur0; 8uri; 8ury; 8vkv; 8vl1; 8voo; 8vop; 8voq; 8vor; 8vos; 8y5l; 8y5m; 8y5o; 8y5p; 8y5q; 8y5r; 8y5s; 8y5t; 8yde; 8ydf; 8ydg; 8ydh; 8ydi; 8ydj,
+P0AFF6,IPR009019,"K homology domain superfamily, prokaryotic type","201-278, 279-343",62,56,5lm7; 5lm9; 5ms0; 6flq; 6gov; 6tqn; 6tqo; 6x6t; 6x7f; 6x7k; 6x9q; 6xas; 6xav; 6xdq; 6z9p; 6z9q; 6z9r; 6z9s; 6z9t; 7adb; 7adc; 7add; 7ade; 7py3; 7py5; 7py6; 7py7; 7pyj; 7pyk; 7ubn; 8pil; 8uqm; 8ur0; 8uri; 8ury; 8vkv; 8vl1; 8voo; 8vop; 8voq; 8vor; 8vos; 8y5l; 8y5m; 8y5o; 8y5p; 8y5q; 8y5r; 8y5s; 8y5t; 8yde; 8ydf; 8ydg; 8ydh; 8ydi; 8ydj,
+P0AFF6,IPR012340,"Nucleic acid-binding, OB-fold",132-199,62,56,5lm7; 5lm9; 5ms0; 6flq; 6gov; 6tqn; 6tqo; 6x6t; 6x7f; 6x7k; 6x9q; 6xas; 6xav; 6xdq; 6z9p; 6z9q; 6z9r; 6z9s; 6z9t; 7adb; 7adc; 7add; 7ade; 7py3; 7py5; 7py6; 7py7; 7pyj; 7pyk; 7ubn; 8pil; 8uqm; 8ur0; 8uri; 8ury; 8vkv; 8vl1; 8voo; 8vop; 8voq; 8vor; 8vos; 8y5l; 8y5m; 8y5o; 8y5p; 8y5q; 8y5r; 8y5s; 8y5t; 8yde; 8ydf; 8ydg; 8ydh; 8ydi; 8ydj,
+P0AFF6,IPR036555,"NusA, N-terminal domain superfamily",1-129,62,57,2kwp; 5lm7; 5lm9; 5ms0; 6flq; 6gov; 6tqn; 6tqo; 6x6t; 6x7f; 6x7k; 6x9q; 6xas; 6xav; 6xdq; 6z9p; 6z9q; 6z9r; 6z9s; 6z9t; 7adb; 7adc; 7add; 7ade; 7py3; 7py5; 7py6; 7py7; 7pyj; 7pyk; 7ubn; 8pil; 8uqm; 8ur0; 8uri; 8ury; 8vkv; 8vl1; 8voo; 8vop; 8voq; 8vor; 8vos; 8y5l; 8y5m; 8y5o; 8y5p; 8y5q; 8y5r; 8y5s; 8y5t; 8yde; 8ydf; 8ydg; 8ydh; 8ydi; 8ydj,
+P0AFG6,IPR023213,Chloramphenicol acetyltransferase-like domain superfamily,159-402,12,5,1c4t; 1e2o; 1scz; 6pbr; 9dz8,
+P0AFG6,IPR036625,E3-binding domain superfamily,103-153,12,6,1bal; 1bbl; 1w4h; 2btg; 2bth; 2wxc,
+P0AFG6,IPR011053,Single hybrid motif,2-95,12,1,1pmr,
+P0AFW0,IPR036735,"NusG, N-terminal domain superfamily",,23,23,2lcl; 2oug; 5ond; 6c6s; 6c6t; 8pen; 8pfg; 8pfj; 8phk; 8pib; 8pid; 8pil; 8pim; 8upo; 8upr; 8uql; 8uqm; 8uqp; 8ur0; 8urh; 8uri; 8urx; 8ury,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P0CG48,IPR029071,Ubiquitin-like domain superfamily,,347,347,11sy; 1c3t; 1cmx; 1d3z; 1f9j; 1fxt; 1g6j; 1gjz; 1nbf; 1ogw; 1q5w; 1s1q; 1sif; 1tbe; 1ubi; 1ubq; 1ud7; 1xd3; 1xqq; 1yx5; 1yx6; 1zgu; 2ayo; 2bgf; 2den; 2fuh; 2g45; 2gbj; 2gbk; 2gbm; 2gbn; 2gbr; 2gmi; 2hth; 2ibi; 2j7q; 2jf5; 2jri; 2jy6; 2jzz; 2k25; 2k6d; 2k8b; 2k8c; 2kdf; 2khw; 2kjh; 2klg; 2kn5; 2kx0; 2l3z; 2ld9; 2lvo; 2lvp; 2lvq; 2lz6; 2mbo; 2mbq; 2mcn; 2mi8; 2mj5; 2mor; 2mre; 2mws; 2n2k; 2nr2; 2o6v; 2ojr; 2pe9; 2pea; 2rr9; 2ru6; 2w9n; 2wdt; 2xew; 2z59; 2zcb; 2zvn; 2zvo; 3a33; 3alb; 3aul; 3b08; 3b0a; 3by4; 3c0r; 3dvg; 3dvn; 3eec; 3efu; 3ehv; 3h7p; 3h7s; 3hm3; 3ifw; 3ihp; 3jsv; 3jvz; 3jw0; 3k9o; 3kvf; 3kw5; 3ldz; 3mhs; 3mtn; 3n3k; 3o65; 3ofi; 3oj4; 3ons; 3prm; 3pt2; 3ptf; 3q3f; 3rul; 3tmp; 3u30; 3ugb; 3v6c; 3v6e; 3vfk; 3vuw; 3vux; 3vuy; 3wxe; 3wxf; 3zni; 3znz; 4ap4; 4auq; 4bos; 4boz; 4bvu; 4ddg; 4ddi; 4dhj; 4dhz; 4fjv; 4hk2; 4hxd; 4i6l; 4i6n; 4ig7; 4ium; 4jqw; 4k1r; 4k7s; 4k7u; 4k7w; 4ksk; 4ksl; 4lcd; 4ldt; 4mdk; 4mm3; 4msm; 4msq; 4nqk; 4un2; 4v3k; 4v3l; 4xok; 4xol; 4zqs; 5af4; 5af5; 5af6; 5aiu; 5b83; 5c7j; 5c7m; 5e6j; 5h07; 5nl4; 5nlf; 5nli; 5nmc; 5oe7; 5ohv; 5oxh; 5oxi; 5udh; 5wq4; 5zq3; 5zq4; 5zq5; 5zq6; 5zq7; 6a43; 6a44; 6aqr; 6b7m; 6b7o; 6eqi; 6k2u; 6kbe; 6n13; 6n6r; 6nqa; 6nxk; 6oi4; 6p5b; 6q00; 6qml; 6rya; 6s53; 6sqr; 6t7f; 6t9l; 6tnf; 6ttu; 6tuv; 6txb; 6ulh; 6ump; 6ums; 6upu; 6v5d; 6vae; 6vaf; 6ven; 6w9d; 6w9r; 6w9s; 6wjd; 6wkr; 6wtg; 6ypt; 6z7v; 7b5l; 7b5m; 7b5n; 7bbd; 7bbf; 7bxg; 7eal; 7eao; 7eb9; 7jxv; 7k6p; 7k6q; 7keo; 7m4m; 7m4n; 7m4o; 7mex; 7mic; 7myf; 7npi; 7owd; 7r70; 7r71; 7tv4; 7uv5; 7uyh; 7yui; 7zj3; 8a9j; 8a9k; 8adb; 8ams; 8b3g; 8b3i; 8e7o; 8eaz; 8eb0; 8ftq; 8jrt; 8jti; 8k6e; 8k6f; 8k6i; 8k6r; 8k6v; 8off; 8pjn; 8pmq; 8pql; 8q06; 8q7r; 8r5h; 8rx0; 8ssi; 8st7; 8st8; 8st9; 8svf; 8t48; 8u5h; 8zdc; 8zdd; 9d1i; 9d1y; 9d1z; 9d8p; 9dby; 9dde; 9dg3; 9di1; 9di2; 9dns; 9ebs; 9egv; 9egw; 9erz; 9f6g; 9fci; 9fcj; 9fj3; 9fj4; 9gkm; 9gkn; 9hnw; 9iju; 9iml; 9isz; 9ken; 9khs; 9kht; 9m7o; 9mc4; 9mc5; 9n1f; 9o4m; 9ofv; 9ovx; 9pl1; 9plq; 9q8y; 9qgg; 9qgi; 9qgr; 9qgw; 9qh5; 9qia; 9r85; 9sdx; 9smn; 9smp; 9sms; 9sna; 9so9; 9syr; 9t7v; 9uv6; 9vvv; 9yea,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P0DP33,IPR011992,EF-hand domain pair,,24,24,1cfc; 1cfd; 1cff; 1ckk; 1dmo; 1f70; 1f71; 1iq5; 1mux; 1nwd; 1sy9; 1x02; 1y0v; 2col; 2k3s; 2kdu; 2llo; 2llq; 2mes; 2rrt; 4r8g; 5j7j; 5t0x; 6ctb,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P10686,IPR035892,C2 domain superfamily,1082-1239,11,3,7t8t; 7z3j; 9qb7,
+P10686,IPR011992,EF-hand domain pair,128-222,11,3,7t8t; 7z3j; 9qb7,
+P10686,IPR011993,PH-like domain superfamily,24-144,11,3,7t8t; 7z3j; 9qb7,
+P10686,IPR017946,"PLC-like phosphodiesterase, TIM beta/alpha-barrel domain superfamily",318-1079,11,11,1y0m; 1ywo; 1ywp; 2fjl; 3gqi; 4k44; 4k45; 5eg3; 7t8t; 7z3j; 9qb7,
+P10686,IPR036860,SH2 domain superfamily,528-766,11,7,3gqi; 4k44; 4k45; 5eg3; 7t8t; 7z3j; 9qb7,
+P10686,IPR036028,SH3-like domain superfamily,790-849,11,6,1y0m; 1ywo; 1ywp; 7t8t; 7z3j; 9qb7,
+P11961,IPR023213,Chloramphenicol acetyltransferase-like domain superfamily,185-426,16,5,1b5s; 3duf; 3dv0; 3dva; 9ukz,
+P11961,IPR036625,E3-binding domain superfamily,117-171,16,12,1ebd; 1w3d; 1w4e; 1w4f; 1w4g; 1w85; 1w88; 2pdd; 2pde; 3duf; 3dv0; 3dva,
+P11961,IPR011053,Single hybrid motif,1-94,16,5,1lab; 1lac; 3duf; 3dv0; 3dva,
+P13036,IPR036942,"TonB-dependent receptor-like, beta-barrel domain superfamily",256-774,7,5,1kmo; 1kmp; 1pnz; 1po0; 1po3,
+P13036,IPR037066,"TonB-dependent receptor, plug domain superfamily",128-254,7,6,1kmo; 1kmp; 1pnz; 1po0; 1po3; 2d1u,
+P16117,IPR010982,"Lambda repressor-like, DNA-binding domain superfamily",,8,8,1per; 1pra; 1r63; 1r69; 1rpe; 1sq8; 2or1; 2r63,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P17480,IPR036910,High mobility group box domain superfamily,,4,4,1k99; 1l8y; 1l8z; 2hdz,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P19608,IPR036732,Antifreeze-like/N-acetylneuraminic acid synthase C-terminal domain superfamily,,1,1,1ops,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P19909,IPR009063,Immunoglobulin/albumin-binding domain superfamily,,89,89,10dv; 12lo; 1fcc; 1fcl; 1fd6; 1gb4; 1gjs; 1gjt; 1ibx; 1p7e; 1p7f; 1qkz; 1uwx; 1zxh; 2gi9; 2i2y; 2i38; 2igg; 2jsv; 2ju6; 2khu; 2khw; 2kn4; 2kq4; 2kwd; 2lum; 2n9k; 2n9l; 2oed; 2on8; 2onq; 2qmt; 3fil; 3ui3; 3v3x; 4oza; 4ozb; 4ozc; 4wh4; 5bmg; 5bmh; 5bmi; 5hfy; 5hg2; 5hi1; 5lde; 5ub0; 5ubs; 5uce; 5ucf; 6c9o; 6che; 6cpz; 6cte; 6hka; 6hpj; 6kmc; 6njf; 6nl6; 6nl7; 6nl8; 6nl9; 6nla; 6nlb; 6o41; 6oc7; 6u8c; 6uuh; 6uyg; 6w00; 6wfw; 7da8; 8dij; 8tfr; 8um7; 8um9; 8uma; 8umb; 8ums; 8wcj; 9avo; 9awe; 9bde; 9fa8; 9i2i; 9qbj; 9rxk; 9t8z; 9yxv,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P24604,IPR011009,Protein kinase-like domain superfamily,357-618,1,0,,
+P24604,IPR011993,PH-like domain superfamily,1-154,1,0,,
+P24604,IPR036860,SH2 domain superfamily,214-359,1,1,1gl5,
+P24604,IPR036028,SH3-like domain superfamily,155-240,1,1,1gl5,
+P25686,IPR036869,Chaperone J-domain superfamily,,1,1,2lgw,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P26748,IPR027393,"Virus scaffolding protein, C-terminal",,6,6,1gp8; 2gp8; 8i1v; 9kyv; 9kyw; 9kyx,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P29323,IPR036116,Fibronectin type III superfamily,324-529,5,0,,
+P29323,IPR008979,Galactose-binding-like domain superfamily,20-195,5,1,2qbx,
+P29323,IPR009030,Growth factor receptor cysteine-rich domain superfamily,253-381,5,0,,
+P29323,IPR013783,Immunoglobulin-like fold,"325-433, 441-528",5,0,,
+P29323,IPR011009,Protein kinase-like domain superfamily,613-914,5,3,1b4f; 1f0m; 3zfm,
+P29323,IPR013761,Sterile alpha motif/pointed domain superfamily,905-986,5,2,1b4f; 1f0m,
+P31689,IPR008971,HSP40/DnaJ peptide-binding,100-331,4,1,8e2o,
+P31689,IPR036410,"Heat shock protein DnaJ, cysteine-rich domain superfamily",131-203,4,0,,
+P31689,IPR036869,Chaperone J-domain superfamily,2-104,4,3,2lo1; 2m6y; 8e2o,
+P31969,IPR008990,Electron transport accessory-like domain superfamily,,2,2,1pse; 1psf,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P32081,IPR012340,"Nucleic acid-binding, OB-fold",,12,12,1csp; 1csq; 1nmf; 1nmg; 2es2; 2f52; 2i5l; 2i5m; 3pf4; 3pf5; 6szz; 6t00,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P35751,IPR036732,Antifreeze-like/N-acetylneuraminic acid synthase C-terminal domain superfamily,,1,1,1ucs,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P36006,IPR036961,Kinesin motor domain superfamily,37-641,3,0,,
+P36006,IPR027417,P-loop containing nucleoside triphosphate hydrolase,26-760,3,0,,
+P36006,IPR036028,SH3-like domain superfamily,1107-1184,3,3,1ruw; 1va7; 2btt,
+P37710,IPR036779,LysM domain superfamily,,2,2,2mkx; 7qfu,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P38428,,,,2,,2myx; 4jqu,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+P38507,IPR009063,Immunoglobulin/albumin-binding domain superfamily,"38-92, 99-153, 154-211, 212-269, 270-327",51,51,1bdc; 1bdd; 1edi; 1edj; 1edk; 1edl; 1fc2; 1lp1; 1q2n; 1ss1; 2jwd; 2m5a; 2spz; 3mzw; 4npd; 4npe; 4npf; 4wwi; 4y4y; 4y5z; 4zmd; 4znc; 5cbn; 5cbo; 5ewx; 5h75; 5h76; 5h77; 5h79; 5h7a; 5h7b; 5h7c; 5h7d; 5x3f; 5xby; 6krv; 7nha; 7nhc; 7nhx; 7ni0; 7nik; 7nil; 7nir; 7nis; 7nj3; 7nj4; 7nj5; 7nj7; 7nk1; 7nk2; 8cpl,
+P38507,IPR036779,LysM domain superfamily,405-473,51,0,,
+P39476,IPR016197,Chromo-like domain superfamily,,22,22,1bbx; 1bnz; 1c8c; 1jic; 5b02; 5b03; 5b0i; 5b0j; 5b0k; 5b0l; 5b0m; 5gwv; 5gww; 5u1c; 6j8v; 6j8w; 6put; 6puw; 6puy; 6puz; 6v3k; 6voy,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P40040,IPR036361,SAP domain superfamily,,5,5,1h1j; 2wqg; 4uzw; 4uzx; 8enk,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P46934,IPR035892,C2 domain superfamily,500-607,15,1,3b7y,
+P46934,IPR035983,"HECT, E3 ligase catalytic domain",943-1312,15,8,2xbb; 2xbf; 4bbn; 4be8; 5c7j; 5c91; 9h9o; 9h9t,
+P46934,IPR036020,WW domain superfamily,"601-644, 761-801, 840-874, 888-927",15,6,2kpz; 2kq0; 2m3o; 4n7f; 4n7h; 5aht,
+P47068,IPR036028,SH3-like domain superfamily,,4,4,1tg0; 1wdx; 1zuk; 2dyf,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P48052,IPR036990,"Metallocarboxypeptidase-like, propeptide",,3,3,1aye; 1dtd; 1o6x,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P54725,IPR009060,UBA-like superfamily,"152-203, 303-361",17,13,1dv0; 1f4i; 1ify; 1oqy; 1qze; 1tp4; 5xbo; 6w2g; 6w2h; 6w2i; 6xqi; 6xqj; 7tgp,
+P54725,IPR029071,Ubiquitin-like domain superfamily,3-85,17,6,1oqy; 1p98; 1p9d; 1qze; 2wyq; 8q06,
+P54725,IPR036353,XPC-binding domain superfamily,222-293,17,4,1oqy; 1qze; 1tp4; 6xqj,
+P68660,IPR036626,Head-to-tail joining protein W superfamily,,7,7,1hyw; 2l6q; 2l6r; 8k38; 8xow; 8xpm; 8xqb,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P74795,,,,2,,2jz2; 3c4s,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+P80381,IPR023575,"Small ribosomal subunit protein uS19, superfamily",,3,3,1qkf; 1qkh; 4v8x,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+P9WIU9,IPR036735,"NusG, N-terminal domain superfamily",43-152,5,4,8e74; 8e82; 8eos; 8eot,
+P9WIU9,IPR014722,"Large ribosomal subunit protein uL2, domain 2",177-238,5,5,2mi6; 8e74; 8e82; 8eos; 8eot,
+P9WIU9,IPR008991,Translation protein SH3-like domain superfamily,182-238,5,5,2mi6; 8e74; 8e82; 8eos; 8eot,
+Q00688,IPR046357,Peptidyl-prolyl cis-trans isomerase domain superfamily,,5,5,1pbk; 2kfv; 2mph; 5d75; 5gpg,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q04439,IPR036961,Kinesin motor domain superfamily,36-641,2,0,,
+Q04439,IPR027417,P-loop containing nucleoside triphosphate hydrolase,33-760,2,0,,
+Q04439,IPR036028,SH3-like domain superfamily,1069-1147,2,2,1yp5; 1zuy,
+Q04822,IPR036388,Winged helix-like DNA-binding domain superfamily,1-70,1,1,2jt1,
+Q04822,IPR036390,Winged helix DNA-binding domain superfamily,9-62,1,1,2jt1,
+Q05876,IPR011009,Protein kinase-like domain superfamily,258-525,3,0,,
+Q05876,IPR036860,SH2 domain superfamily,119-248,3,3,2l2p; 2lp5; 3cqt,
+Q05876,IPR036028,SH3-like domain superfamily,57-150,3,3,2l2p; 2lp5; 3cqt,
+Q06187,IPR011009,Protein kinase-like domain superfamily,382-648,169,128,1k2p; 2ge9; 3gen; 3k54; 3ocs; 3oct; 3p08; 3pix; 3piy; 3piz; 3pj1; 3pj2; 3pj3; 4nwm; 4ot5; 4ot6; 4otf; 4otq; 4otr; 4rfy; 4rfz; 4rg0; 4rx5; 4yhf; 4z3v; 4zly; 4zlz; 5bpy; 5bq0; 5fbn; 5fbo; 5j87; 5jrs; 5kup; 5p9f; 5p9g; 5p9h; 5p9i; 5p9j; 5p9k; 5p9l; 5p9m; 5t18; 5u9d; 5vfi; 5vgo; 5xyz; 5zz4; 6aua; 6aub; 6bik; 6bke; 6bkh; 6bkw; 6bln; 6di0; 6di1; 6di3; 6di5; 6di9; 6e4f; 6ep9; 6hrp; 6hrt; 6htf; 6j6m; 6n9p; 6nfh; 6nfi; 6nzm; 6o8i; 6omu; 6s90; 6tfp; 6vxq; 6w06; 6w07; 6w7o; 6w8i; 6x3n; 6x3o; 6x3p; 6xe4; 7kxl; 7kxm; 7kxn; 7kxo; 7kxp; 7kxq; 7l5o; 7l5p; 7lty; 7ltz; 7n4q; 7n4r; 7n4s; 7n5o; 7n5r; 7n5x; 7n5y; 7r60; 7r61; 7yc9; 8dso; 8e2m; 8ejb; 8flg; 8flh; 8fll; 8fln; 8flv; 8gc7; 8gc8; 8tu3; 8tu4; 8tu5; 8u2d; 8u2e; 8yvv; 9vdh; 9y56; 9y57; 9y5a; 9y5b; 9y5d; 9y5e; 9yt9; 9zqv,
+Q06187,IPR011993,PH-like domain superfamily,2-170,169,38,1b55; 1btk; 1bwn; 2z0p; 6tse; 6tt2; 6tuh; 6tvn; 6yyf; 6yyg; 6yyk; 7i90; 7i91; 7i92; 7i93; 7i94; 7i95; 7i96; 7i97; 7i98; 7i99; 7i9a; 7i9b; 7i9c; 7i9d; 7i9e; 7i9f; 7i9g; 7i9h; 7i9i; 9rl9; 9rmo; 9t0t; 9t1v; 9t21; 9t23; 9t3g; 9t3m,
+Q06187,IPR036860,SH2 domain superfamily,251-390,169,95,1aww; 1awx; 1qly; 2ge9; 3gen; 3k54; 3pix; 3piy; 3piz; 3pj1; 3pj2; 3pj3; 4ot5; 4ot6; 4otq; 4otr; 4rfy; 4rfz; 4rg0; 4yhf; 4z3v; 4zly; 4zlz; 5bq0; 5fbn; 5fbo; 5j87; 5p9f; 5p9g; 5p9h; 5p9i; 5p9j; 5p9k; 5p9l; 5p9m; 5u9d; 5vfi; 6di0; 6di1; 6di3; 6di5; 6di9; 6e4f; 6ep9; 6hrp; 6hrt; 6htf; 6n9p; 6nfh; 6nzm; 6omu; 6tfp; 6vxq; 6w06; 6w07; 6w7o; 6w8i; 6x3n; 6x3o; 6x3p; 7kxm; 7kxp; 7kxq; 7l5o; 7l5p; 7n5o; 7n5r; 7n5x; 7n5y; 7r60; 7r61; 8dso; 8e2m; 8ejb; 8flg; 8flh; 8fll; 8fln; 8flv; 8gc7; 8gc8; 8tu3; 8tu4; 8tu5; 8u2d; 8u2e; 9vdh; 9y56; 9y57; 9y5a; 9y5b; 9y5d; 9y5e; 9yt9; 9zqv,
+Q06187,IPR036028,SH3-like domain superfamily,206-274,169,5,1aww; 1awx; 1qly; 2ge9; 6htf,
+Q12906,IPR043519,Nucleotidyltransferase superfamily,,4,4,2l33; 3p1x; 7rjm; 7rjq,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q13526,IPR046357,Peptidyl-prolyl cis-trans isomerase domain superfamily,45-163,190,164,1f8a; 1nmv; 1nmw; 1pin; 1zcn; 2f21; 2itk; 2q5a; 2ruc; 2rud; 2ruq; 2rur; 2xp3; 2xp4; 2xp5; 2xp6; 2xp7; 2xp8; 2xp9; 2xpa; 2xpb; 2zqs; 2zqt; 2zqu; 2zqv; 2zr4; 2zr5; 2zr6; 3i6c; 3ik8; 3ikd; 3ikg; 3jyj; 3kab; 3kac; 3kad; 3kaf; 3kag; 3kah; 3kai; 3kce; 3ntp; 3odk; 3oob; 3tc5; 3tcz; 3tdb; 3wh0; 4qib; 4tns; 4tyo; 4u84; 4u85; 4u86; 5gph; 5uy9; 6dun; 6o33; 6o34; 6vaj; 7aog; 7axn; 7ayf; 7az1; 7az2; 7bdp; 7bdt; 7bdy; 7bfw; 7bg3; 7bgq; 7bgr; 7bgv; 7bgw; 7efj; 7efx; 7ekv; 7f0m; 7nif; 7nig; 7nj6; 7nj8; 7nja; 7nrk; 7nrl; 7oq9; 7oqa; 7sa5; 7suq; 7sur; 8c2g; 8c3c; 8sg2; 8vjd; 8vje; 8vjf; 8vjg; 8vz3; 8vz5; 8w11; 9inn; 9ino; 9inp; 9inq; 9inr; 9it1; 9jf6; 9jfh; 9jjs; 9jjz; 9jyo; 9jyp; 9jyr; 9jys; 9jyt; 9jyv; 9jz2; 9jz3; 9jz4; 9jz6; 9jzg; 9jzs; 9jzu; 9jzv; 9ke5; 9ke7; 9ke9; 9keb; 9kec; 9kel; 9keq; 9kes; 9kew; 9key; 9kez; 9kf0; 9kfc; 9kfh; 9kfz; 9kg9; 9kgo; 9kx1; 9kx7; 9kx9; 9kxc; 9kxd; 9kxe; 9kxf; 9kxg; 9kxh; 9kxi; 9kxj; 9kxk; 9kxl; 9kxm; 9kxn; 9kxo; 9kxp; 9kxq; 9v6g; 9v6i; 9v6p; 9v6w; 9v92,
+Q13526,IPR036020,WW domain superfamily,2-39,190,139,1f8a; 1i6c; 1i8g; 1i8h; 1nmv; 1pin; 1zcn; 2f21; 2itk; 2kbu; 2kcf; 2lb3; 2m8i; 2m8j; 2m9e; 2m9f; 2m9i; 2m9j; 2n1o; 2q5a; 2xp3; 2xp4; 2xp5; 2xp6; 2xp7; 2xp8; 2xp9; 2xpa; 2xpb; 2zqs; 2zqt; 2zqu; 2zqv; 2zr4; 2zr5; 2zr6; 3kab; 3kad; 3kaf; 3kag; 3kah; 3kai; 3kce; 3ntp; 3odk; 3oob; 3tc5; 3tcz; 3tdb; 3wh0; 4gwt; 4gwv; 4qib; 4u84; 4u85; 4u86; 5b3w; 5b3x; 5b3y; 5b3z; 5bmy; 5uy9; 5vti; 5vtj; 5vtk; 6o33; 6o34; 6svc; 6sve; 6svh; 6vaj; 7efj; 7efx; 7ekv; 7f0m; 7sa5; 7suq; 7sur; 8sg2; 8vjd; 8vje; 8vjf; 8vjg; 8vz3; 8vz5; 8w11; 9inr; 9it1; 9jf6; 9jyo; 9jyp; 9jyr; 9jys; 9jyt; 9jyv; 9jz2; 9jz3; 9jz4; 9jz6; 9jzg; 9jzs; 9jzu; 9jzv; 9ke5; 9ke7; 9ke9; 9keb; 9kec; 9kel; 9keq; 9kes; 9kew; 9key; 9kez; 9kf0; 9kfc; 9kfh; 9kfz; 9kg9; 9kgo; 9kx1; 9kx7; 9kx9; 9kxc; 9kxd; 9kxe; 9kxf; 9kxg; 9kxh; 9kxi; 9kxj; 9kxk; 9kxl; 9kxm; 9kxn; 9kxo; 9kxp; 9kxq; 9v92,
+Q13813,IPR011992,EF-hand domain pair,2308-2465,7,0,,
+Q13813,IPR036028,SH3-like domain superfamily,967-1028,7,4,5fw9; 5fwb; 5fwc; 6zeh,
+Q13882,IPR011009,Protein kinase-like domain superfamily,173-439,9,7,1rja; 5d7v; 5da3; 5h2u; 6cz2; 6cz3; 6cz4,
+Q13882,IPR036860,SH2 domain superfamily,69-211,9,9,1rja; 2kgt; 5d7v; 5da3; 5h2u; 6cz2; 6cz3; 6cz4; 8s1c,
+Q13882,IPR036028,SH3-like domain superfamily,11-95,9,3,1rja; 2kgt; 8s1c,
+Q14847,IPR036028,SH3-like domain superfamily,,1,1,3i35,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q15311,IPR008936,Rho GTPase activation protein,,5,5,2kwh; 2kwi; 2mbg; 6zqt; 6zrn,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q16512,IPR035892,C2 domain superfamily,321-478,9,0,,
+Q16512,IPR036274,HR1 repeat superfamily,"19-97, 125-196, 209-284",9,5,1cxz; 1urf; 2rmk; 4nkg; 9rxe,
+Q16512,IPR011009,Protein kinase-like domain superfamily,612-923,9,4,4otd; 4otg; 4oth; 4oti,
+Q39VC5,IPR012675,Beta-grasp domain superfamily,1-70,2,2,2k5p; 3cwi,
+Q39VC5,IPR016155,"Molybdopterin synthase/thiamin biosynthesis sulphur carrier, beta-grasp",3-68,2,2,2k5p; 3cwi,
+Q53291,,,,10,,1mhx; 1mi0; 2ptl; 2zw0; 2zw1; 5z4b; 9kl7; 9kls; 9klt; 9klu,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+Q53UI9,IPR036732,Antifreeze-like/N-acetylneuraminic acid synthase C-terminal domain superfamily,,2,2,2lx2; 2lx3,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q53UJ4,IPR036732,Antifreeze-like/N-acetylneuraminic acid synthase C-terminal domain superfamily,,6,6,5xqn; 5xqp; 5xqr; 5xqu; 5xqv; 5xr0,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q54HC2,IPR011992,EF-hand domain pair,,2,2,2m8u; 5ibw,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q58598,IPR038763,DHH phosphoesterase superfamily,344-759,1,0,,
+Q58598,IPR036410,"Heat shock protein DnaJ, cysteine-rich domain superfamily",2-80,1,0,,
+Q58598,IPR012340,"Nucleic acid-binding, OB-fold","127-203, 204-318",1,1,2k52,
+Q58FS3,IPR009057,Homeodomain-like superfamily,,1,1,2cjj,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q5VST9,IPR035899,Dbl homology (DH) domain superfamily,5685-5887,25,0,,
+Q5VST9,IPR036116,Fibronectin type III superfamily,"508-603, 4515-4628, 7542-7645",25,2,2n56; 5tzm,
+Q5VST9,IPR036179,Immunoglobulin-like domain superfamily,"9-99, 108-201, 239-332, 325-407, 425-502, 606-675, 706-781, 808-977, 972-1068, 1064-1161, 1156-1253, 1248-1344, 1340-1436, 1433-1529, 1524-1621, 1616-1712, 1716-1794, 1816-1895, 1901-2073, 2069-2162, 2158-2251, 2282-2375, 2381-2474, 2471-2563, 2559-2732, 2738-2911, 2909-3001, 3007-3181, 3184-3273, 3272-3361, 3360-3449, 3442-3534, 3536-3710, 3705-3798, 3794-3886, 3882-3975, 3971-4065, 4066-4156, 4151-4246, 4242-4337, 4334-4428, 4432-4519, 4626-4696, 4898-4990, 5120-5216, 5260-5360, 5368-5471, 6010-6201, 6355-6447, 7462-7551",25,24,2cr6; 2dku; 2dm7; 2e7b; 2edf; 2edh; 2edl; 2edq; 2edr; 2edt; 2edw; 2eny; 2eo1; 2gqh; 2mwc; 2n56; 2yz8; 4c4k; 4rsv; 4uow; 5tzm; 6mg9; 7r67; 7r68,
+Q5VST9,IPR013783,Immunoglobulin-like fold,"7-102, 103-208, 241-329, 330-421, 422-510, 511-607, 608-702, 703-797, 800-887, 888-977, 978-1068, 1069-1161, 1162-1253, 1254-1345, 1346-1437, 1438-1529, 1530-1621, 1622-1713, 1714-1808, 1809-1895, 1896-1985, 1986-2074, 2075-2164, 2165-2250, 2251-2288, 2289-2377, 2378-2466, 2467-2556, 2557-2647, 2648-2733, 2734-2825, 2826-2916, 2917-3003, 3004-3094, 3095-3181, 3182-3272, 3273-3359, 3361-3448, 3449-3536, 3537-3624, 3626-3710, 3714-3800, 3801-3887, 3890-3976, 3977-4066, 4067-4156, 4157-4247, 4248-4339, 4340-4432, 4433-4522, 4523-4634, 4635-4712, 4885-4993, 5120-5221, 5255-5362, 5363-5472, 6011-6105, 6106-6203, 6346-6448, 7460-7550, 7551-7646",25,24,2cr6; 2dku; 2dm7; 2e7b; 2edf; 2edh; 2edl; 2edq; 2edr; 2edt; 2edw; 2eny; 2eo1; 2gqh; 2mwc; 2n56; 2yz8; 4c4k; 4rsv; 4uow; 5tzm; 6mg9; 7r67; 7r68,
+Q5VST9,IPR011009,Protein kinase-like domain superfamily,"6459-6741, 7667-7948",25,0,,
+Q5VST9,IPR011993,PH-like domain superfamily,5888-6009,25,0,,
+Q5VST9,IPR036028,SH3-like domain superfamily,5602-5664,25,1,1v1c,
+Q63NA6,IPR038570,HicA superfamily,,2,2,4c26; 6g26,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q64337,IPR009060,UBA-like superfamily,389-438,6,2,2rru; 3b0f,
+Q64337,IPR043145,"Zinc finger, ZZ-type superfamily",116-167,6,0,,
+Q6D6V0,IPR012340,"Nucleic acid-binding, OB-fold",,2,2,2k5n; 2n49,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q6GFB4,IPR029048,"Heat shock protein 70kD, C-terminal domain superfamily",,2,2,2qff; 2win,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q6N0Y6,IPR024044,NifT/FixU barrel-like domain superfamily,,1,1,2jn4,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q6N4D8,IPR036388,Winged helix-like DNA-binding domain superfamily,,1,1,2jtv,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q70AB8,IPR009063,Immunoglobulin/albumin-binding domain superfamily,,3,3,2b87; 2b88; 2b89,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q72GN0,IPR036101,"CarD-like/TRCF, RNAP-interacting domain superfamily",2-69,1,1,2lqk,
+Q72GN0,IPR042215,"CarD-like, C-terminal domain",62-160,1,1,2lqk,
+Q7CR49,IPR025543,Dodecin-like,21-91,1,1,2ma4,
+Q7CR49,IPR036275,YdgH-like superfamily,2-90,1,1,2ma4,
+Q7WY62,IPR036916,Sporulation inhibitor A superfamily,,2,2,1pv0; 3fyr,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q80J95,IPR043502,DNA/RNA polymerase superfamily,1189-1666,21,11,3nah; 3nai; 3qid; 3sfg; 3sfu; 3upf; 3uqs; 3ur0; 4nru; 4o4r; 5y3d,(note: IPR043504 present in raw ID list but not found in reference entry.list; excluded from analysis)
+Q80J95,IPR027417,P-loop containing nucleoside triphosphate hydrolase,438-629,21,0,,(note: IPR043504 present in raw ID list but not found in reference entry.list; excluded from analysis)
+Q80J95,IPR009003,"Peptidase S1, PA clan",1005-1164,21,5,4ash; 4x2v; 4x2w; 4x2x; 4x2y,(note: IPR043504 present in raw ID list but not found in reference entry.list; excluded from analysis)
+Q80J95,IPR043128,Reverse transcriptase/Diguanylate cyclase domain,"1396-1446, 1453-1567",21,11,3nah; 3nai; 3qid; 3sfg; 3sfu; 3upf; 3uqs; 3ur0; 4nru; 4o4r; 5y3d,(note: IPR043504 present in raw ID list but not found in reference entry.list; excluded from analysis)
+Q868D4,IPR011992,EF-hand domain pair,,2,2,2jnf; 2k2a,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q8BUR4,IPR016024,Armadillo-type fold,648-1205,1,0,,
+Q8BUR4,IPR035892,C2 domain superfamily,425-619,1,0,,
+Q8BUR4,IPR043161,"Dedicator of cytokinesis, C-terminal, lobe A",1184-1333,1,0,,
+Q8BUR4,IPR043162,"Dedicator of cytokinesis, C-terminal, lobe C",1488-1617,1,0,,
+Q8BUR4,IPR042455,"Dedicator of cytokinesis, N-terminal, subdomain 1",82-178,1,0,,
+Q8BUR4,IPR036028,SH3-like domain superfamily,9-67,1,1,2m0y,
+Q8CFI0,IPR035892,C2 domain superfamily,44-216,3,0,,
+Q8CFI0,IPR035983,"HECT, E3 ligase catalytic domain",630-997,3,0,,
+Q8CFI0,IPR036020,WW domain superfamily,"213-255, 409-448, 527-561, 573-612",3,3,1wr3; 1wr4; 1wr7,
+Q8CGF7,IPR036517,FF domain superfamily,"655-782, 783-860, 890-1016, 1017-1083",5,0,,
+Q8CGF7,IPR036020,WW domain superfamily,"136-168, 436-468, 525-563",5,5,1e0l; 2jup; 2rly; 2rm0; 2ysi,
+Q8EG75,IPR012340,"Nucleic acid-binding, OB-fold",,1,1,2kcm,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q8LTJ5,,,,4,,2mc5; 2mc6; 6j9e; 6j9f,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+Q8NW39,IPR037250,NEAT domain superfamily,,8,8,2lhr; 3szk; 4fc3; 9s3p; 9s4f; 9s4i; 9s4j; 9s4k,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q8PX65,IPR012340,"Nucleic acid-binding, OB-fold",,1,1,1yez,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q8RY59,,,,3,,5n9q; 5ngo; 5oao,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+Q8TE49,,,,1,,2l2d,no homologous_superfamily-type entry found for this protein; pdb_ids listed without any overlap filtering.
+Q8U1Z3,IPR012675,Beta-grasp domain superfamily,1-69,3,3,1rws; 1sf0; 5lda,
+Q8U1Z3,IPR016155,"Molybdopterin synthase/thiamin biosynthesis sulphur carrier, beta-grasp",6-69,3,3,1rws; 1sf0; 5lda,
+Q8VEB2,IPR036020,WW domain superfamily,,4,4,2dwv; 2ysb; 7bqf; 7bqg,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q8VL32,IPR010982,"Lambda repressor-like, DNA-binding domain superfamily",,12,12,1utx; 2gzu; 2lyj; 2lyk; 2lyl; 2lyp; 2lyq; 2lyr; 2lys; 2xi8; 2xiu; 2xj3,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q8W595,IPR046341,SET domain superfamily,147-460,1,0,,
+Q8W595,IPR043017,WIYLD domain superfamily,14-82,1,1,2lxe,
+Q8XL11,IPR036028,SH3-like domain superfamily,,2,2,2kt8; 5wqw,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q8XMT2,IPR036505,N-acetylmuramoyl-L-alanine amidase/PGRP domain superfamily,70-229,1,0,,
+Q8XMT2,IPR036028,SH3-like domain superfamily,"358-397, 440-479, 522-559",1,1,2krs,
+Q8ZPL1,IPR025543,Dodecin-like,"21-91, 106-174, 243-314",2,2,2m2j; 4evu,
+Q8ZPL1,IPR036275,YdgH-like superfamily,"3-94, 108-177, 239-314",2,2,2m2j; 4evu,
+Q91QS4,IPR016075,"RNA polymerase, phosphoprotein P, C-terminal XD, paramyxovirinae",,1,1,5lxj,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q92882,IPR036770,Ankyrin repeat-containing domain superfamily,71-190,4,2,3ehq; 3ehr,
+Q92882,IPR036028,SH3-like domain superfamily,4-73,4,4,1x2k; 1zlm; 3ehq; 3ehr,
+Q931F4,IPR009063,Immunoglobulin/albumin-binding domain superfamily,"40-99, 103-151",2,0,,
+Q931F4,IPR041909,"Sbi, C3 binding domain IV",187-266,2,2,2jvg; 2jvh,
+Q96EY1,IPR008971,HSP40/DnaJ peptide-binding,338-424,4,0,,
+Q96EY1,IPR036410,"Heat shock protein DnaJ, cysteine-rich domain superfamily",223-299,4,1,2ctt,
+Q96EY1,IPR036869,Chaperone J-domain superfamily,89-203,4,3,2dn9; 6iws; 7x89,
+Q96J02,IPR035892,C2 domain superfamily,13-155,12,1,2nq3,
+Q96J02,IPR035983,"HECT, E3 ligase catalytic domain",530-897,12,2,3tug; 5c7m,
+Q96J02,IPR036020,WW domain superfamily,"325-358, 358-392, 434-472, 475-510",12,7,2dmv; 2kyk; 2ysf; 4rof; 5cq2; 5dws; 5dzd,
+Q99697,IPR009057,Homeodomain-like superfamily,,3,3,2l7f; 2l7m; 2lkx,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q99801,IPR009057,Homeodomain-like superfamily,,1,1,2l9r,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q9BVI0,IPR011011,"Zinc finger, FYVE/PHD-type",642-702,7,2,5tab; 5tbn,
+Q9BVI0,IPR013083,"Zinc finger, RING/FYVE/PHD-type",643-708,7,2,5tab; 5tbn,
+Q9BX66,IPR036028,SH3-like domain superfamily,,11,11,2dl3; 2ecz; 2lj0; 2lj1; 2mox; 2o2w; 2o31; 2o9s; 2o9v; 4ln2; 4lnp,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q9F715,IPR042298,"Proto-chlorophyllide reductase, C-terminal",,1,1,2kru,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q9H0M0,IPR035892,C2 domain superfamily,16-155,8,0,,
+Q9H0M0,IPR035983,"HECT, E3 ligase catalytic domain",547-916,8,7,1nd7; 5hps; 5hpt; 6j1x; 6j1y; 8ei4; 9eqk,
+Q9H0M0,IPR036020,WW domain superfamily,"342-380, 381-415, 449-491, 493-528",8,4,2op7; 6j1x; 6j1y; 9eqk,
+Q9H161,IPR009057,Homeodomain-like superfamily,,4,4,2m0c; 8osb; 9d9r; 9d9v,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q9H2K2,IPR036770,Ankyrin repeat-containing domain superfamily,"18-351, 335-640, 641-803",197,19,2y0i; 3twq; 3twr; 3tws; 3twt; 3twu; 3twv; 3tww; 3twx; 4z68; 5bxo; 5bxu; 7a1s; 8w23; 8w25; 8w27; 8w28; 9qfc; 9qjz,
+Q9H2K2,IPR013761,Sterile alpha motif/pointed domain superfamily,864-940,197,9,5dcz; 5jrt; 8aly; 8w23; 8w25; 8w27; 8w28; 8w2t; 8w2u,
+Q9LW00,IPR016177,DNA-binding domain superfamily,,1,1,6acv,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q9QEJ5,IPR043502,DNA/RNA polymerase superfamily,1204-1689,1,0,,
+Q9QEJ5,IPR027417,P-loop containing nucleoside triphosphate hydrolase,421-578,1,0,,
+Q9QEJ5,IPR009003,"Peptidase S1, PA clan",1053-1199,1,0,,
+Q9QEJ5,IPR043128,Reverse transcriptase/Diguanylate cyclase domain,"1414-1484, 1485-1587",1,0,,
+Q9QEJ5,IPR029053,Viral coat protein subunit,1716-1932,1,0,,
+Q9UBX2,IPR009057,Homeodomain-like superfamily,,11,11,5z2s; 5z2t; 5z6z; 5zfw; 5zfy; 5zfz; 6a8r; 6dfy; 6e8c; 6u81; 6u82,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q9UKV5,IPR013083,"Zinc finger, RING/FYVE/PHD-type",,13,13,2ejs; 2lvn; 2lvo; 2lvp; 2lvq; 2lxh; 2lxp; 3fsh; 3h8k; 3tiw; 4g3o; 4lad; 8t0s,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
+Q9ULT8,IPR036770,Ankyrin repeat-containing domain superfamily,363-507,3,0,,
+Q9ULT8,IPR011989,Armadillo-like helical,7-383,3,0,,
+Q9ULT8,IPR016024,Armadillo-type fold,11-943,3,0,,
+Q9ULT8,IPR008979,Galactose-binding-like domain superfamily,1088-1240,3,0,,
+Q9ULT8,IPR035983,"HECT, E3 ligase catalytic domain",2125-2602,3,0,,
+Q9ULT8,IPR037252,Mib/herc2 domain superfamily,1268-1336,3,2,2dk3; 3dkm,
+Q9WWP1,IPR008990,Electron transport accessory-like domain superfamily,,2,2,1qp2; 1qp3,only one homologous_superfamily entry exists for this protein; all pdb_ids attributed to it without residue-range overlap checking.
